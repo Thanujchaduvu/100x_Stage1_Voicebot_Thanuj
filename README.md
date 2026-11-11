@@ -21,15 +21,6 @@ This repository contains the single-file, production-grade interactive **Voice B
    - Dedicated 1-click prompt chips for all 5 evaluation questions (*Life Story*, *#1 Superpower*, *Top 3 Growth Areas*, *Misconception*, *Pushing Limits*).
    - Candidate Resume Dossier Modal.
    - Built-in 1-click email submission helper pre-configured for `bhumika@100x.inc` with subject line: `GEN AI: GEN AI ROUND 1 ASSESSMENT (LINKEDIN - CHADUVU THANUJ)`.
-
----
-
-## 🚀 Quick Start / Local Setup
-
-1. Simply extract `100x-ai-voicebot.zip`.
-2. Double click `index.html` to open it in any modern browser (Chrome / Edge recommended for full Web Speech API support).
-3. No build tools, Node.js packages, or terminal installations are required!
-
 ---
 
 ## 🌐 Deploying to GitHub & GitHub Pages
